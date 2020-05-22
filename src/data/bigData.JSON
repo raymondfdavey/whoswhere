@@ -1,0 +1,16 @@
+{
+  "totalStudents": 10,
+  "cohortNumbers": {
+    "2": 10
+  },
+  "currentBlockNumbers": {
+    "grad": 10
+  },
+  "totalNumberOfBlocks": 43,
+  "repeatedBlocks": {
+    "Fundamentals": 1,
+    "Back End": 2,
+    "Front End": 0,
+    "Project Phase": 0
+  }
+}
